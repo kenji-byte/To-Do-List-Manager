@@ -31,6 +31,8 @@ The application is built with Tkinter, providing a clean and interactive GUI. Us
 📂 Project Structure
 
 📦 To-Do-List Manager
+
+
  ┣ 📜 main.py          # Main application script
  ┣ 📜 tasks.pkl        # Saved tasks file (auto-generated)
  ┣ 📜 README.md        # Project documentation
