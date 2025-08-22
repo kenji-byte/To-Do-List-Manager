@@ -28,16 +28,7 @@ The application is built with Tkinter, providing a clean and interactive GUI. Us
 •	View tasks in a clear, organized list display.
 
 
-📂 Project Structure
 
-📦 To-Do-List Manager
-
-
- ┣ 📜 main.py          # Main application script
- ┣ 📜 tasks.pkl        # Saved tasks file (auto-generated)
- ┣ 📜 README.md        # Project documentation
-
- 
 ⚙️ Installation & Usage
 1.	Clone the repository
 2.	git clone https://github.com/your-username/To-Do-List-Manager.git
